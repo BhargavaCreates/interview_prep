@@ -1,0 +1,3 @@
+[submodule "javascript"]
+	path = javascript
+	url = ../binance_scripts/js/
